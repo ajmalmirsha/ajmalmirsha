@@ -6,5 +6,6 @@
 - 💬 Ask me about - JavaScript | MongoDB | Express.js | React.js | Node.js | TypeScript | Psql | GraphQL | Next.js | DSA | AWS
 - 📫 How to reach me: ajmalmirshaa2004@gmail.com  +91 7907883318
 
-- <img align="left" src="https://github-readme-stats.vercel.app/api?username=ajmalmirsha&show_icons=true&locale=en" alt="ajmalmirsha" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=ajmalmirsha&show_icons=true&locale=en" alt="ajmalmirsha" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajmalmirsha&layout=compact" />
 
